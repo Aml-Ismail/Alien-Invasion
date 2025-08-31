@@ -1,1 +1,22 @@
-This project was done for the course CIE 205 Data Structures and Algorithm Analysis which is offered in Zewail City of Science and Tehnology. The purpose of the project was to simulate a war between multiple army units on both teams. Each type of army unit had different fighting mechanics, and would target certain units of the other army under certain conditions. The project was done using object oriented programming, and implementing multiple data structures such as stack, queue, priority queue, and double-ended queue.
+## Alien Invasion Simulator 👾⚔️
+## 👥 Collaborators
+
+- [Aml Ismail](https://github.com/Aml-Ismail)
+- [Youssef Allam](https://github.com/YoussefMAllam)
+- [Mohammad AbdelRahman](https://github.com/MomoAbdelRahman)
+
+
+## 📝 Project Description
+
+- We built an Alien Invasion Simulator that models a war between multiple army units across two opposing teams.
+
+- Each unit type has unique fighting mechanics and targets specific enemy units under certain conditions, creating a dynamic battle simulation. The project emphasizes object-oriented programming principles and applies a variety of data structures to handle unit behavior and battle flow.
+
+
+
+## 🛠️ Technologies Used
+
+- Language: C++
+
+- Concepts: Object-Oriented Programming (OOP), Data Structures (Stack, Queue, Priority Queue, Deque)
+
