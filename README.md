@@ -1,4 +1,4 @@
-## Alien Invasion Simulator 👾⚔️
+## Alien Invasion
 ## 👥 Collaborators
 
 - [Aml Ismail](https://github.com/Aml-Ismail)
